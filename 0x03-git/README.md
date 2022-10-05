@@ -1,1 +1,1 @@
-my secand redme
+it's time to code
